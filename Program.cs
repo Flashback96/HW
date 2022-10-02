@@ -1,2 +1,4 @@
-﻿
-Console.WriteLine("Hello, World from FB");
+﻿Console.WriteLine ("Напишите свое имя") ;
+string username = Console.ReadLine() ;
+Console.WriteLine ("Привет, ") ;
+Console.WriteLine (username) ;
